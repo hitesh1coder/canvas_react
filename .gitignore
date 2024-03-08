@@ -1,0 +1,7 @@
+# Ignore node_modules and .env in frontend
+clinet/node_modules/
+clinet/.env
+
+# Ignore node_modules and .env in backend
+server/node_modules/
+server/.env
