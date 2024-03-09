@@ -14,13 +14,13 @@ Building_planner
 
 # Getting Started
 
-- Clone this repository to your local machine using `https://github.com/hitesh1coder/vaccitaion_dashboard`
+- Clone this repository to your local machine using `https://github.com/hitesh1coder/canvas_react/tree/main`
 
 ## Frontend
 
 - For running this project you need clone this repository, then open in vs-code or any other code editor.
   Open terminal and go to "client" folder and run this command for install all dependencies: npm install
-- add a .env file and write your backend server URL in this key : VITE_SERVER_HOST=
+
 - After installing all dependencies, start frontend using this command : npm run dev
 
 ## Backend
